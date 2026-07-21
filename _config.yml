@@ -4,3 +4,11 @@ sass:
 
 title: Think. Pause. Reflect.  
 description: Professional Portfolio
+
+header_pages: 
+  - about me.html
+  - academia.html
+  - therapy.html
+  - blogs.html 
+  - get in touch.html
+  
